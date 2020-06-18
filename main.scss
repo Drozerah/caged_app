@@ -1,6 +1,6 @@
 // @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
-// @import './scss/utils';
-// @import './scss/responsive';
+// @import './src/scss/utils';
+// @import './src/scss/responsive';
 *{
   box-sizing: border-box;
 }
@@ -14,4 +14,7 @@ body{
   align-items: center;
   justify-content: center;
   font-family: monospace;
+}
+canvas {
+  border: 1px solid  #E7E7E7;
 }
