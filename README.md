@@ -1,6 +1,6 @@
-# caged_app
+# CAGED App
 
-> Work in progress !
+> CAGED System Guitar App !
 
 ### #TODO
 
